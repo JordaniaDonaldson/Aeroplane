@@ -1,1 +1,1 @@
-# Aeroplane
+Design and implement a class called Flight that represent an airline flight. It should contain instance data that represents the airline name, the flight number, and the flight’s origin and destination cities. Define the flight constructor to accept and initialize all instance data. Include a getter and setter methods for all instance data. Include a toString method that returns a one-line description of the flight. Create a driver class that called FlightTest whose main method instantiates and updates several flight objects.
